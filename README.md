@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Arun kumar Kaparthi;AIDS+Student+%7C+AI+Enthusiast;Data+Science+%26+ML+Learner&center=true&width=600&height=50" />
-</h1>
-
+<h1 align="center">Hey I'm Arun Kumar Kaparthi 👋</h1>
 <h3 align="center">Artificial Intelligence & Data Science Student | Future AI/ML Developer 🇮🇳</h3>
-
 <br>
 
 ## 👨‍🎓 About Me
