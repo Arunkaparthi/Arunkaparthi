@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+I'm+Arun+Kumar+Kaparthi;AIDS+Student+from+India;Web+Developer+%7C+Python+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+I'm+Arun+Kumar+Kaparthi;AIDS+Student;Web+Developer+%7C+Python+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Artificial Intelligence & Data Science Student | Learning Web Development 🇮🇳</h3>
+<h3 align="center">Artificial Intelligence & Data Science Student | Web Development 🇮🇳</h3>
 
 ---
 
