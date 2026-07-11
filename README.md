@@ -1,4 +1,4 @@
-markdown<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey+I'm+Arun+Kumar+Kaparthi;AI+%26+ML+Developer;Future+Data+Scientist" alt="Typing SVG" />
 </p>
 
