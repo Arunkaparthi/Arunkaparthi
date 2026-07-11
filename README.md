@@ -1,49 +1,36 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey+I'm+Arun+Kumar+Kaparthi;AI+%26+ML+Developer;Future+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+I'm+Arun+Kumar+Kaparthi;AIDS+Student+from+India;Web+Developer+%7C+Python+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Artificial Intelligence & Data Science Student | Future AI/ML Developer 🇮🇳</h3>
-<br>
+<h3 align="center">Artificial Intelligence & Data Science Student | Learning Web Development 🇮🇳</h3>
+
+---
 
 ## 👨‍🎓 About Me
-- 🌱 I’m an **AIDS Student** currently learning **AI, ML, and Data Science**
-- 🤖 Passionate about **Machine Learning, Data Analysis, and AI applications**
-- 📊 Exploring **Python, Statistics, and Data Visualization**
-- 🎯 Goal: **Build AI/ML projects and become a Data Scientist**
-- 💡 Interested in **Deep Learning, NLP, and Real-world AI solutions**
+
+- 🌱 I'm an **AIDS Student** currently learning **Python, Web Dev, and Data Science**
+- 💻 Passionate about **Web Development, Data Analysis, and Building Projects**
+- 🎨 Exploring **HTML, CSS, JavaScript, and Python**
+- 🚀 Goal: **Become a Full Stack Developer and Data Analyst**
+- 🧠 Interested in **Real-world Projects and Problem Solving**
 - 📫 Reach me at: **arunkaparthi08@gmail.com**
 
-<br>
+---
+
+## 🚀 Projects
+
+### [AI Hand Gesture Volume Controller](https://github.com/Arunkaparthi/AI-Hand-Gesture-Volume-Controller)
+Control system volume using hand gestures. Built with `Python`, `OpenCV`, and `MediaPipe`.
+
+---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 </p>
-
-<br>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunkaparthi&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkaparthi&theme=radical&hide_border=true"/>
-</p>
-
-<br>
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:arunkaparthi08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-## 🎯 Currently Learning
